@@ -1,0 +1,27 @@
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.common\bin\Debug\netcoreapp3.1\LTCSDL.Common.deps.json
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.common\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfoInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfo.cs
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.common\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csprojAssemblyReference.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csproj.CoreCompileInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.common\bin\Debug\netcoreapp3.1\LTCSDL.Common.deps.json
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.common\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.common\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csprojAssemblyReference.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfoInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfo.cs
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csproj.CoreCompileInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.common\bin\Debug\netcoreapp3.1\LTCSDL.Common.deps.json
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.common\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.common\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csprojAssemblyReference.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfoInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfo.cs
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csproj.CoreCompileInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.common\obj\Debug\netcoreapp3.1\LTCSDL.Common.pdb

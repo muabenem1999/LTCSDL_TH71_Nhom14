@@ -1,0 +1,87 @@
+<div id="admininfo" class="form-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>Information only for Admin</h2>
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+        <div class="row">
+            <div class="col-lg-6">
+                <!-- Sign-in Form -->
+                <form id="contactForm" data-toggle="validator" data-focus="false">
+                    <div class="form-group">
+                        <input type="text" class="form-control-input" id="adId" required>
+                        <label class="label-control" for="adId">Id</label>
+                        <div class="help-block with-errors"></div>
+                    </div>
+                    <div class="form-group">
+                        <input type="current-password" class="form-control-input" id="adPass" required>
+                        <label class="label-control" for="adPass">Password</label>
+                        <div class="help-block with-errors"></div>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="form-control-submit-button">SIGH IN</button>
+                    </div>
+                    <div class="form-message">
+                        <div id="cmsgSubmit" class="h3 text-center hidden"></div>
+                    </div>
+                </form>
+            </div> <!-- end of col -->
+        </div>
+
+        <div id = "customersinfo" class="form-1">
+            <div class="text-container">
+                <h2>Thông tin khách hàng</h2>
+            </div>
+
+            <div class="row">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>CustomersId</th>
+                            <th>Name</th>
+                            <th>Email</th>
+                            <th>Phone</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr *ngFor="let c of Customers">
+                            <td>{{c.idC}}</td>
+                            <td>{{c.fullName}}</td>
+                            <td>{{c.email}}</td>
+                            <td>{{c.phone}}</td>
+                            <td>
+                            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" (click)="getValue(c.idC)">
+                                Delete
+                              </button>
+                              
+                              <!-- Modal -->
+                              <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                  <div class="modal-content">
+                                    <div class="modal-header">
+                                      <h5 class="modal-title" id="exampleModalLabel">WARNING!!!</h5>
+                                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                      </button>
+                                    </div>
+                                    <div class="modal-body">
+                                      Are you sure want to delete this customer?
+                                    </div>
+                                    <div class="modal-footer">                                         
+                                      <button type="button" class="btn btn-primary" (click) = "deleteCustomer()">Comfirm</button>
+                                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                        </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div> 
+</div>

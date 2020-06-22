@@ -1,0 +1,45 @@
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.deps.json
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfoInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfo.cs
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csprojAssemblyReference.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.json
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.dev.json
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CoreCompileInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.genruntimeconfig.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CopyComplete
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csprojAssemblyReference.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfoInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfo.cs
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CoreCompileInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.deps.json
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.json
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.dev.json
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CopyComplete
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (2)\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.genruntimeconfig.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.deps.json
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.json
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.dev.json
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csprojAssemblyReference.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfoInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfo.cs
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CoreCompileInputs.cache
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CopyComplete
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\LTCSDL\testDotnet\demo\LTCSDL - Copy (3) - Copy\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.genruntimeconfig.cache
